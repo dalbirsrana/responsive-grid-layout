@@ -1,6 +1,6 @@
 # Responsive Grid Layout with CSS
 
-## Responsive grid layout with floating right side menu hide on escape key
+## Responsive grid layout with floating right side menu, hide on esc key
 
 Navigation layout using CSS **Flex** property
 
