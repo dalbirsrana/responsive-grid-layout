@@ -1,4 +1,5 @@
 # Responsive Grid Layout with CSS
+Demo: https://dalbirsrana.github.io/responsive-grid-layout/
 
 ## Responsive grid layout with floating right side menu, hide on esc key
 
